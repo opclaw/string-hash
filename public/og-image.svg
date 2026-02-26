@@ -1,0 +1,20 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#gradient)"/>
+  
+  <!-- Icon -->
+  <text x="600" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="120" text-anchor="middle">#️⃣</text>
+  
+  <!-- Title -->
+  <text x="600" y="350" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="bold" fill="white" text-anchor="middle">String Hash Generator</text>
+  
+  <!-- Subtitle -->
+  <text x="600" y="430" font-family="system-ui, -apple-system, sans-serif" font-size="36" fill="rgba(255,255,255,0.9)" text-anchor="middle">MD5, SHA256, SHA512</text>
+</svg>

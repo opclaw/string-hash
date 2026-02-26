@@ -17,11 +17,20 @@ export const metadata: Metadata = {
     siteName: 'String Hash Generator',
     title: 'String Hash Generator — MD5, SHA256, SHA512',
     description: 'Generate MD5, SHA256, and SHA512 hashes.',
+    images: [
+      {
+        url: '/og-image.svg',
+        width: 1200,
+        height: 630,
+        alt: 'String Hash Generator',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'String Hash Generator',
     description: 'Generate MD5, SHA256, and SHA512 hashes.',
+    images: ['/og-image.svg'],
   },
   robots: { index: true, follow: true },
 }
