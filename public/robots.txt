@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://string-hash.vercel.app/sitemap.xml

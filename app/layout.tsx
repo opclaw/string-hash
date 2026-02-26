@@ -3,6 +3,9 @@ import './globals.css'
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://string-hash.vercel.app'),
+  alternates: {
+    canonical: 'https://string-hash.vercel.app',
+  },
   title: 'String Hash Generator — MD5, SHA256, SHA512 | Free Tool',
   description: 'Generate MD5, SHA256, and SHA512 hashes from any string. Free online hash generator for developers.',
   keywords: ['hash generator', 'md5 hash', 'sha256 hash', 'sha512 hash', 'string hash'],
